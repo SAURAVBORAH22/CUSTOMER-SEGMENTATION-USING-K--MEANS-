@@ -1,5 +1,6 @@
 # CUSTOMER-SEGMENTATION-USING-K--MEANS-
-This project does the work of segmenting different customers based on different  features using K-means clustering algorithm
+This project does the work of segmenting different customers based on different  features using K-means clustering algorithm.
+
 Customer segmentation is the practice of dividing a customer base into groups of individuals that are
 similar in specific ways relevant to marketing, such as age, gender, interests and spending habits.
 Customer segmentation enables a company to customize its relationships with the customers, as we do
